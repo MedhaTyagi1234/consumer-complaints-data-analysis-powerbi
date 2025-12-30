@@ -50,5 +50,10 @@ These issues directly affected charts, KPIs, and filtering logic.
 ## Key Takeaway
 This project taught me that **real-world data is messy**, and the ability to clean, validate, and question data is more important than building complex visuals.
 
-## Preview
-Dashboard screenshots available in the `images` folder.
+## Dashboard Preview
+### Page 1 – Overview
+![Page 1 Overview](screenshots/image-3.png)
+### Page 2 – Complaint Analysis
+![Page 2 Analysis](screenshots/image-4.png)
+### Page 3 – Performance Insights
+![Page 3 Insights](screenshots/image-5.png)
